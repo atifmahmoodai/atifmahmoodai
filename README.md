@@ -3,6 +3,7 @@
 I build data dashboards, automations, web apps, mobile apps and software, mostly for the automotive and service industries.
 
 ## 📊 Data Analyst
+- [data-showroom-profitability-dashboard](https://github.com/atifmahmoodai/data-showroom-profitability-dashboard): ⭐ Power BI profitability and stock-ageing dashboard fed live by my showroom management app
 - [data-powerbi-portfolio](https://github.com/atifmahmoodai/data-powerbi-portfolio): 21 Power BI projects with PBIP source, DAX measures and demo data
   <details><summary>Show all 21 dashboards</summary>
 
@@ -96,7 +97,7 @@ I build data dashboards, automations, web apps, mobile apps and software, mostly
 ## 💻 Software
 - [soft-dealer-management-system](https://github.com/atifmahmoodai/soft-dealer-management-system): Inventory, CRM, sales, workshop and reports
 - [soft-garage-workshop-manager](https://github.com/atifmahmoodai/soft-garage-workshop-manager): Garage workshop management
-- soft-showroom-manager (private): Showroom management
+- soft-showroom-manager (private): Showroom management · exports data to the showroom profitability dashboard
 - [soft-claude-plan-first-skill](https://github.com/atifmahmoodai/soft-claude-plan-first-skill): Claude Skill that plans before it builds
 
 ## 🤝 Client Solutions
