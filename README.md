@@ -18,10 +18,11 @@ I build data dashboards, automations, web apps, mobile apps and software, mostly
 - [web-dealer-price-tracker](https://github.com/atifmahmoodai/web-dealer-price-tracker): Dealer car price tracking
 - [web-auto-showroom](https://github.com/atifmahmoodai/web-auto-showroom): Online auto showroom
 - [web-atifs-vault-3d-museum](https://github.com/atifmahmoodai/web-atifs-vault-3d-museum): Walkable 3D car museum in one HTML file
-- [web-astra](https://github.com/atifmahmoodai/web-astra): Astra
+- [web-astra](https://github.com/atifmahmoodai/web-astra): Collection of 21 Power BI projects and 15 business web apps
 
 ## 📱 Mobile Apps
 - [mobile-motorcycle-fleet-garage](https://github.com/atifmahmoodai/mobile-motorcycle-fleet-garage): Technician phone app plus admin dashboard
+- [mobile-foison-receipt-scanner](https://github.com/atifmahmoodai/mobile-foison-receipt-scanner): Receipt scanner for iOS and Android; AI reads line items into Google Sheets
 
 ## 💻 Software
 - [soft-dealer-management-system](https://github.com/atifmahmoodai/soft-dealer-management-system): Inventory, CRM, sales, workshop and reports
@@ -30,7 +31,7 @@ I build data dashboards, automations, web apps, mobile apps and software, mostly
 - [soft-claude-plan-first-skill](https://github.com/atifmahmoodai/soft-claude-plan-first-skill): Claude Skill that plans before it builds
 
 ## 🤝 Client Solutions
-- [client-foison](https://github.com/atifmahmoodai/client-foison)
+_Client projects are added here as they are published._
 
 ---
 Browse by category: [data-analyst](https://github.com/atifmahmoodai?tab=repositories&q=topic%3Adata-analyst) · [automation](https://github.com/atifmahmoodai?tab=repositories&q=topic%3Aautomation) · [web-app](https://github.com/atifmahmoodai?tab=repositories&q=topic%3Aweb-app) · [mobile-app](https://github.com/atifmahmoodai?tab=repositories&q=topic%3Amobile-app) · [software](https://github.com/atifmahmoodai?tab=repositories&q=topic%3Asoftware) · [client-work](https://github.com/atifmahmoodai?tab=repositories&q=topic%3Aclient-work)
