@@ -3,6 +3,7 @@
 I build data dashboards, automations, web apps, mobile apps and software, mostly for the automotive and service industries.
 
 ## 📊 Data Analyst
+- [data-powerbi-portfolio](https://github.com/atifmahmoodai/data-powerbi-portfolio): 21 Power BI projects with PBIP source, DAX measures and demo data
 - [data-enquiry-sales-dashboard](https://github.com/atifmahmoodai/data-enquiry-sales-dashboard): Power BI enquiry and sales dashboard for multi-branch dealerships
 - [data-dealership-financials-powerbi](https://github.com/atifmahmoodai/data-dealership-financials-powerbi): Actual vs budget, this year vs last year
 - data-used-car-price-estimator (private): used-car price prediction
@@ -18,7 +19,8 @@ I build data dashboards, automations, web apps, mobile apps and software, mostly
 - [web-dealer-price-tracker](https://github.com/atifmahmoodai/web-dealer-price-tracker): Dealer car price tracking
 - [web-auto-showroom](https://github.com/atifmahmoodai/web-auto-showroom): Online auto showroom
 - [web-atifs-vault-3d-museum](https://github.com/atifmahmoodai/web-atifs-vault-3d-museum): Walkable 3D car museum in one HTML file
-- [web-astra](https://github.com/atifmahmoodai/web-astra): Collection of 21 Power BI projects and 15 business web apps
+- [web-business-apps](https://github.com/atifmahmoodai/web-business-apps): 15 browser demos for small-business operations (quoting, invoicing, bookings, client portals)
+- [web-automotive-apps](https://github.com/atifmahmoodai/web-automotive-apps): 19 browser demos for dealerships, workshops, car rental and fleets
 
 ## 📱 Mobile Apps
 - [mobile-motorcycle-fleet-garage](https://github.com/atifmahmoodai/mobile-motorcycle-fleet-garage): Technician phone app plus admin dashboard
